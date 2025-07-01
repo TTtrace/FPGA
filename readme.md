@@ -217,8 +217,6 @@ risc-v介绍博客：[从零开始写RISC-V处理器](https://liangkangnan.gitee
 
 ### 插值滤波器
 
-[插值代码分析](./src/docs/插值代码分析.pdf)
-
 [FIR滤波器](https://blog.csdn.net/vast_sea/article/details/8194814)
 
 ## 题目
